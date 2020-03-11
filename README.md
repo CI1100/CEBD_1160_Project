@@ -1,2 +1,7 @@
 # CEBD_1160_Project
- Project files
+
+Description
+
+
+Main file for project is Project_sklearn
+All visualizations in the folder visualisation
